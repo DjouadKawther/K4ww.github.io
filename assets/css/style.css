@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #header {
     width: 300px;
-    background: #fff;
+    background: #928370;
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #f2f3f5;
+  background: #ffff;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a span, .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #928370;
 }
 @media (min-width: 992px) {
   .nav-menu a, .nav-menu a:focus {
@@ -182,8 +182,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
-  color: #fff;
-  background: #0563bb;
+  color: #928370;
+  background: #ffff;
 }
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
   color: #fff;
